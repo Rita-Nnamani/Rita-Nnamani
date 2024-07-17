@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rita-Nnamani
-- 👀 I’m interested in 
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on a frontend development project
 - 📫 How to reach me, reach me on Whatsapp with +23491024920
